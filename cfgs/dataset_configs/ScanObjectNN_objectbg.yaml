@@ -1,0 +1,3 @@
+NAME: ScanObjectNN
+ROOT: /export/livia/datasets/datasets/public/6D_Pose_Estimation/ScanObjectNN/main_split
+#ROOT: /SLURM_TMPDIR/data/ScanObjectNN/main_split

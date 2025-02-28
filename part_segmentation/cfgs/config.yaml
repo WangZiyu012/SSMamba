@@ -1,0 +1,29 @@
+model: "pt_mamba"
+trans_dim: 384
+depth: 12
+drop_path_rate: 0.1
+rms_norm: False
+use_cls_token: False
+drop_path: 0.2
+drop_out: 0.
+fetch_idx: [3, 7, 11]
+method: local_global_traverse_k_eigenvectors_Binary_Method                                    # fiedler, largest_eigenvector, k_top_eigenvectors, local_global_traverse_k_eigenvectors_2
+reverse: True
+n_power_iteration: 1000
+knn_graph: 20
+k_top_eigenvectors: 4
+k_top_eigenvectors_2: [4,5]
+type_of_graph: "knn"                                               # knn, shared_points
+threshold: 5
+reverse_end: True
+reverse_after_tokens: False
+smallest: True
+first_largest_second_smallest: False
+first_smallest_second_smallest: True
+rotation_aug : False
+sccale_tranlate : False
+alpha : 10
+symmetric : True
+self_loop : False
+
+

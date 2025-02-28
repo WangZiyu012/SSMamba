@@ -1,0 +1,4 @@
+NAME: ShapeNet
+DATA_PATH: /export/livia/datasets/datasets/public/6D_Pose_Estimation/ShapeNet-55
+N_POINTS: 1024
+PC_PATH: /export/livia/datasets/datasets/public/6D_Pose_Estimation/shapenet_pc
