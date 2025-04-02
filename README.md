@@ -9,7 +9,7 @@
 ## Overview
 
 <div  align="center">    
- <img src="./figure/method_figure.png" width = "888"  align=center />
+ <img src="./figure/method_figure.jpeg" width = "888"  align=center />
 </div>
 
 
