@@ -4,13 +4,6 @@
 
 Specify the beter-up parts and the usage.
 
-## Overview
-
-<div  align="center">    
- <img src="./figure/method_figure.jpeg" width = "888"  align=center />
-</div>
-
-
 
 ## Dataset
 
